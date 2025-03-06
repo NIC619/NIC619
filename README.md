@@ -32,7 +32,7 @@ I also share my learnings with audience from local meetups, online sharing sessi
 
 <summary>Here is the list of talks I gave in the past:</summary>
 
-- 2025/02, Sharing **Pectra Upgrade EIPs** at Taipei Ethereum Meetup. [Slide](https://www.dropbox.com/scl/fi/bb46j96z4n4kc3plmek5u/Pectra-EIPs.pdf?rlkey=y13hmcamanlneqp4txd9y16hp&st=nzd6qyqx&dl=0)
+- 2025/02, Sharing **Pectra Upgrade EIPs** at Taipei Ethereum Meetup. [Slide](https://www.dropbox.com/scl/fi/bb46j96z4n4kc3plmek5u/Pectra-EIPs.pdf?rlkey=y13hmcamanlneqp4txd9y16hp&st=nzd6qyqx&dl=0) [Video](https://youtu.be/pwPuqbcJG6U?si=qq55HXpttkhlY--m&t=1510)
 - 2024/12, Sharing **EIP-7702** in internal sharing session at imToken. [Slide](https://www.dropbox.com/scl/fi/r9mscjc1kpi15ngyr28s5/EIP-7702.pdf?rlkey=6vk4j7nr2pmvwsv0y44xjr3xk&st=7t6lqcw1&dl=0)
 - 2024/08, Sharing **Risk of Restaking** at Today In Defi meetup. [Slide](https://www.dropbox.com/scl/fi/j64e5675smde3pa1y7efq/Is-restaking-worth-the-risk.pdf?rlkey=p45dmoz4jyfkzv5njud5lqgqj&st=o3go4ui5&dl=0)
 - 2024/08, Sharing **Censorship Resistance on L2** at Panta Rei. [Slide](https://www.dropbox.com/scl/fi/8aoxbshruv2rq4ibqa6v2/Censorship-Resistance-on-L2.pdf?rlkey=hyg8l8edt2fnrrgsac6m0ae7o&st=u72ksrfa&dl=0)
